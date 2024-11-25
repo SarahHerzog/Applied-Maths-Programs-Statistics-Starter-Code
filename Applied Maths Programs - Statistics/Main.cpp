@@ -4,48 +4,56 @@
 float GetMean(float values[], int numValues)
 {
 	// INSERT CODE HERE
+	// The mean (average) time taken to level up for that class
 	return 0.0f;
 }
 
 float GetMedian(float values[], int numValues)
 {
 	// INSERT CODE HERE
+	// The median time taken (time taken by the central sample) to level up for that class
 	return 0.0f;
 }
 
 float GetMode(float values[], int numValues)
 {
 	// INSERT CODE HERE
+	// The mode (most common amount) of time taken to level up for that class
 	return 0.0f;
 }
 
 float GetRange(float values[], int numValues)
 {
 	// INSERT CODE HERE
+	// The range (difference between shortest and longest time)
 	return 0.0f;
 }
 
 float GetVariance(float values[], int numValues, bool isSampled)
 {
 	// INSERT CODE HERE
+	// The variance (which can be used to work out the standard deviation)
 	return 0.0f;
 }
 
 float GetStandardDeviation(float values[], int numValues, bool isSampled)
 {
 	// INSERT CODE HERE
+	// The standard deviation (the distance from the mean that most samples fall within)
 	return 0.0f;
 }
 
 float GetMAD(float values[], int numValues)
 {
 	// INSERT CODE HERE
+	// The mean absolute deviation (MAD) (the average difference between a sample  and the mean)
 	return 0.0f;
 }
 
 float GetSEM(float values[], int numValues, bool isSampled)
 {
 	// INSERT CODE HERE
+	// The standard error of the mean (an estimate of how reliable the mean is, and therefore some other data here)
 	return 0.0f;
 }
 
